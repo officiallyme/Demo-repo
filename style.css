@@ -1,6 +1,13 @@
 h1 {
-    color: red;
+    color: white;
 }
 p {
+    display: none;
     color: blue;
+}
+button {
+    border: none;
+    background: blue;
+    cursor: pointer;
+    padding: 10px 20px;
 }
